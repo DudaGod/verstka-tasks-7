@@ -1,3 +1,5 @@
+# <a href="http://dudagod.github.io/verstka-tasks-7/" target="_blank">Демо</a>
+
 # Задача к лекции «Flex» – «Бабуленькины котятки»
 
 :sos: [Как создать Pull Request](https://github.com/urfu-2015/guides/blob/master/how-to-pull-request.md)  
